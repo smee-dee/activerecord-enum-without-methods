@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name          = %q{activerecord-enum-without-methods}
-  s.version       = "1.0.0"
+  s.version       = "1.1.0"
   s.authors       = ["Marcin Lewandowski"]
   s.description   = %q{This gem does the same as ActiveRecord::Base#enum but does not define enum_value? and enum_value! methods so you can use the same values in multiple enum}
   s.email         = %q{marcin@saepia.net}
